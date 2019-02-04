@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "villagewar",
+        "name": "Village War Plugin",
+        "version": "1.0",
+        "description": "This Plugin is used to make war between to villages.",
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
